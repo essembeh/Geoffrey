@@ -1,0 +1,3 @@
+[submodule "libraries/GPRS_SIM900"]
+	path = libraries/GPRS_SIM900
+	url = https://github.com/essembeh/GPRS_SIM900
